@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\svanTipuricPetlje\svanTipuricPetlje\bin\Debug\svanTipuricPetlje.exe.config
+C:\Users\3.D\source\repos\svanTipuricPetlje\svanTipuricPetlje\bin\Debug\svanTipuricPetlje.exe
+C:\Users\3.D\source\repos\svanTipuricPetlje\svanTipuricPetlje\bin\Debug\svanTipuricPetlje.pdb
+C:\Users\3.D\source\repos\svanTipuricPetlje\svanTipuricPetlje\obj\Debug\svanTipuricPetlje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\svanTipuricPetlje\svanTipuricPetlje\obj\Debug\svanTipuricPetlje.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\svanTipuricPetlje\svanTipuricPetlje\obj\Debug\svanTipuricPetlje.exe
+C:\Users\3.D\source\repos\svanTipuricPetlje\svanTipuricPetlje\obj\Debug\svanTipuricPetlje.pdb
