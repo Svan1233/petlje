@@ -15,9 +15,10 @@ namespace svanTipuricPetlje
             Console.WriteLine("Unesi tekst:");
             unosTeksta = Console.ReadLine();
             Console.WriteLine(unosTeksta);
-            for (int i = 0; i < unosTeksta.Length; i++)//Prolazi kroz petlju toliko puta koliko unosTeksta ima slova
+            for (int i = unosTeksta.Length ; i>0 ; i--)
+
             {
-                Console.WriteLine(unosTeksta.Substring(0, i + 1));
+                Console.WriteLine(unosTeksta.Substring(0, i-1));
             }
             Console.ReadKey();
         }
